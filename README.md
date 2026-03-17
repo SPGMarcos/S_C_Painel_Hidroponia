@@ -1,6 +1,6 @@
 # Sistema Hidropônico Automatizado 🌿
 
-Um sistema de cultivo hidropônico automatizado, desenvolvido com microcontroladores ESP, pensado para manter as plantas saudáveis com o mínimo de intervenção manual.
+Esse é um sistema de cultivo hidropônico automatizado, desenvolvido com microcontroladores ESP, pensado para manter as plantas saudáveis com o mínimo de intervenção manual.
 
 ## 📌 Visão Geral
 
