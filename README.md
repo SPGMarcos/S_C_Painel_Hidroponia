@@ -64,27 +64,45 @@ O funcionamento é bem direto:
 - Modo local:
 
 Usuário
+
 ↓
+
 Interface / Lógica interna
+
 ↓
+
 ESP
+
 ↓
+
 Relé
+
 ↓
+
 Bomba de água
+
 ↓
+
 Sistema hidropônico
 
 - Com automação (Home Assistant):
 
 Home Assistant
+
 ↓
+
 MQTT
+
 ↓
+
 ESP
+
 ↓
+
 Relé
+
 ↓
+
 Bomba
 
 ## 🔧 Funcionalidades
