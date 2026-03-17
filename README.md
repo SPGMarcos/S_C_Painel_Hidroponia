@@ -108,43 +108,43 @@ O funcionamento é bem direto:
 ## 🔧 Funcionalidades
 🔹 Automação da bomba
 
-Liga e desliga automaticamente
+- Liga e desliga automaticamente
 
-Pode funcionar por tempo ou ciclo
+- Pode funcionar por tempo ou ciclo
 
-Mantém o fluxo necessário para as plantas
+- Mantém o fluxo necessário para as plantas
 
 🔹 Controle manual
 
-Possibilidade de ligar/desligar quando quiser
+- Possibilidade de ligar/desligar quando quiser
 
-Útil para manutenção ou testes
+- Útil para manutenção ou testes
 
 🔹 Integração com automação
 
-Compatível com MQTT
+- Compatível com MQTT
 
-Pode ser integrado ao Home Assistant
+- Pode ser integrado ao Home Assistant
 
-Permite controle remoto e criação de automações
+- Permite controle remoto e criação de automações
 
 🔹 Funcionamento local
 
-Não depende de internet
+- Não depende de internet
 
-Continua funcionando mesmo offline
+- Continua funcionando mesmo offline
 
-Mais confiável no dia a dia
+- Mais confiável no dia a dia
 
 ## 🔌 Hardware utilizado
 
-ESP8266 ou ESP32
+- ESP8266 ou ESP32
 
-Módulo relé
+- Módulo relé
 
-Bomba submersa
+- Bomba submersa
 
-Fonte de alimentação
+- Fonte de alimentação
 
 Estrutura hidropônica (tubos, reservatório, etc.)
 
@@ -198,13 +198,13 @@ Adicionar sensores de:
 
 ## 🌍 Aplicações
 
-Cultivo em casa
+- Cultivo em casa
 
-Pequenas produções
+- Pequenas produções
 
-Estufas
+- Estufas
 
-Projetos experimentais
+- Projetos experimentais
 
 ## 👨‍💻 Autor
 
