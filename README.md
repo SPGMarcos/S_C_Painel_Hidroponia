@@ -63,47 +63,47 @@ O funcionamento é bem direto:
 ## ⚙️ Arquitetura
 - Modo local:
 
-Usuário
+    Usuário
 
-↓
+      ↓
 
 Interface / Lógica interna
 
-↓
+      ↓
 
-ESP
+     ESP
 
-↓
+      ↓
 
-Relé
+     Relé
 
-↓
+      ↓
 
-Bomba de água
+ Bomba de água
 
-↓
+      ↓
 
 Sistema hidropônico
 
 - Com automação (Home Assistant):
 
-Home Assistant
+  Home Assistant
 
-↓
+      ↓
 
-MQTT
+    MQTT
 
-↓
+      ↓
 
-ESP
+     ESP
 
-↓
+      ↓
 
-Relé
+    Relé
 
-↓
+      ↓
 
-Bomba
+    Bomba
 
 ## 🔧 Funcionalidades
 🔹 Automação da bomba
