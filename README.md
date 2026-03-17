@@ -8,13 +8,13 @@ Esse projeto nasceu de uma necessidade simples: não depender de ficar controlan
 
 A ideia foi criar um sistema que:
 
-Funcione sozinho
+- Funcione sozinho
 
-Seja confiável
+- Seja confiável
 
-Continue operando mesmo sem internet
+- Continue operando mesmo sem internet
 
-E que possa ser expandido com sensores e automações mais avançadas
+- E que possa ser expandido com sensores e automações mais avançadas
 
 Hoje ele já consegue manter o fluxo de água e a lógica de funcionamento da hidroponia funcionando de forma estável.
 
@@ -22,27 +22,27 @@ Hoje ele já consegue manter o fluxo de água e a lógica de funcionamento da hi
 
 Desenvolver um sistema hidropônico que seja:
 
-Simples de usar
+- Simples de usar
 
-Automatizado
+- Automatizado
 
-Independente de cloud
+- Independente de cloud
 
-Expansível
+- Expansível
 
-Aplicável tanto em casa quanto em projetos maiores
+- Aplicável tanto em casa quanto em projetos maiores
 
 ## 🌱 O que o sistema faz
 
-Controla a bomba de água
+- Controla a bomba de água
 
-Automatiza os ciclos de circulação
+- Automatiza os ciclos de circulação
 
-Mantém o fluxo constante da solução nutritiva
+- Mantém o fluxo constante da solução nutritiva
 
-Pode ser integrado com sistemas como Home Assistant
+- Pode ser integrado com sistemas como Home Assistant
 
-Permite controle manual e automático
+- Permite controle manual e automático
 
 Mesmo sem sensores ainda, ele já resolve o principal problema: manter a circulação correta da água, que é o coração da hidroponia.
 
@@ -50,18 +50,18 @@ Mesmo sem sensores ainda, ele já resolve o principal problema: manter a circula
 
 O funcionamento é bem direto:
 
-A bomba é acionada em ciclos programados
+- A bomba é acionada em ciclos programados
 
-A água circula pelo sistema levando os nutrientes
+- A água circula pelo sistema levando os nutrientes
 
-O controle é feito pelo ESP (ESP8266 ou ESP32)
+- O controle é feito pelo ESP (ESP8266 ou ESP32)
 
-Toda a lógica roda localmente
+- Toda a lógica roda localmente
 
-(Opcional) Pode integrar com MQTT e Home Assistant
+- (Opcional) Pode integrar com MQTT e Home Assistant
 
 ## ⚙️ Arquitetura
-Modo local
+- Modo local:
 
 Usuário
 ↓
@@ -75,7 +75,7 @@ Bomba de água
 ↓
 Sistema hidropônico
 
-Com automação (Home Assistant)
+- Com automação (Home Assistant):
 
 Home Assistant
 ↓
