@@ -194,4 +194,4 @@ Marcos Gabriel Ferreira Miranda
 
 Desenvolvedor IoT | Automação Residencial e Agrícola
 
-Belo Horizonte
+Belo Horizonte - MG
