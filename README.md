@@ -152,49 +152,49 @@ Estrutura hidropônica (tubos, reservatório, etc.)
 
 O sistema segue uma lógica simples e eficiente:
 
-Ativa a bomba em intervalos definidos
+- Ativa a bomba em intervalos definidos
 
-Mantém a circulação da solução nutritiva
+- Mantém a circulação da solução nutritiva
 
-Evita que as raízes fiquem sem água
+- Evita que as raízes fiquem sem água
 
-Garante funcionamento contínuo
+- Garante funcionamento contínuo
 
 ## 🛡️ Confiabilidade
 
-Funciona sem internet
+- Funciona sem internet
 
-Reinicia mantendo a lógica
+- Reinicia mantendo a lógica
 
-Baixo risco de falha
+- Baixo risco de falha
 
-Estrutura simples e robusta
+- Estrutura simples e robusta
 
 ## ⚠️ Limitações atuais
 
-Ainda não possui sensores (pH, EC, temperatura, etc.)
+- Ainda não possui sensores (pH, EC, temperatura, etc.)
 
-Controle baseado apenas em tempo
+- Controle baseado apenas em tempo
 
-A parte física ainda está em fase de instalação completa
+- A parte física ainda está em fase de instalação completa
 
 ## 📈 Próximos passos
 
 Adicionar sensores de:
 
-Umidade
+- Umidade
 
-Temperatura
+- Temperatura
 
-pH
+- pH
 
-EC
+- EC
 
-Automação mais inteligente (baseada em dados)
+- Automação mais inteligente (baseada em dados)
 
-Controle remoto de longa distância (LoRa)
+- Controle remoto de longa distância (LoRa)
 
-Dashboard mais completo (SmartControl)
+- Dashboard mais completo (SmartControl)
 
 ## 🌍 Aplicações
 
