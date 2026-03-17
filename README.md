@@ -1,9 +1,8 @@
-# S_C_Painel_Hidroponia
-🌿 Sistema Hidropônico Automatizado
+# Sistema Hidropônico Automatizado 🌿
 
 Um sistema de cultivo hidropônico automatizado, desenvolvido com microcontroladores ESP, pensado para manter as plantas saudáveis com o mínimo de intervenção manual.
 
-📌 Sobre o projeto
+## 📌 Sobre o projeto
 
 Esse projeto nasceu de uma necessidade simples: não depender de ficar controlando manualmente irrigação e circulação de água o tempo todo.
 
@@ -19,7 +18,7 @@ E que possa ser expandido com sensores e automações mais avançadas
 
 Hoje ele já consegue manter o fluxo de água e a lógica de funcionamento da hidroponia funcionando de forma estável.
 
-🎯 Objetivo
+## 🎯 Objetivo
 
 Desenvolver um sistema hidropônico que seja:
 
@@ -33,7 +32,7 @@ Expansível
 
 Aplicável tanto em casa quanto em projetos maiores
 
-🌱 O que o sistema faz
+## 🌱 O que o sistema faz
 
 Controla a bomba de água
 
@@ -47,7 +46,7 @@ Permite controle manual e automático
 
 Mesmo sem sensores ainda, ele já resolve o principal problema: manter a circulação correta da água, que é o coração da hidroponia.
 
-🧠 Como funciona
+## 🧠 Como funciona
 
 O funcionamento é bem direto:
 
@@ -61,7 +60,7 @@ Toda a lógica roda localmente
 
 (Opcional) Pode integrar com MQTT e Home Assistant
 
-⚙️ Arquitetura
+## ⚙️ Arquitetura
 Modo local
 
 Usuário
@@ -88,7 +87,7 @@ Relé
 ↓
 Bomba
 
-🔧 Funcionalidades
+## 🔧 Funcionalidades
 🔹 Automação da bomba
 
 Liga e desliga automaticamente
@@ -119,7 +118,7 @@ Continua funcionando mesmo offline
 
 Mais confiável no dia a dia
 
-🔌 Hardware utilizado
+## 🔌 Hardware utilizado
 
 ESP8266 ou ESP32
 
@@ -131,7 +130,7 @@ Fonte de alimentação
 
 Estrutura hidropônica (tubos, reservatório, etc.)
 
-🔄 Lógica do sistema
+## 🔄 Lógica do sistema
 
 O sistema segue uma lógica simples e eficiente:
 
@@ -143,7 +142,7 @@ Evita que as raízes fiquem sem água
 
 Garante funcionamento contínuo
 
-🛡️ Confiabilidade
+## 🛡️ Confiabilidade
 
 Funciona sem internet
 
@@ -153,7 +152,7 @@ Baixo risco de falha
 
 Estrutura simples e robusta
 
-⚠️ Limitações atuais
+## ⚠️ Limitações atuais
 
 Ainda não possui sensores (pH, EC, temperatura, etc.)
 
@@ -161,7 +160,7 @@ Controle baseado apenas em tempo
 
 A parte física ainda está em fase de instalação completa
 
-📈 Próximos passos
+## 📈 Próximos passos
 
 Adicionar sensores de:
 
@@ -179,7 +178,7 @@ Controle remoto de longa distância (LoRa)
 
 Dashboard mais completo (SmartControl)
 
-🌍 Aplicações
+## 🌍 Aplicações
 
 Cultivo em casa
 
@@ -189,7 +188,10 @@ Estufas
 
 Projetos experimentais
 
-👨‍💻 Autor
+## 👨‍💻 Autor
 
 Marcos Gabriel Ferreira Miranda
+
 Desenvolvedor IoT | Automação Residencial e Agrícola
+
+Belo Horizonte
