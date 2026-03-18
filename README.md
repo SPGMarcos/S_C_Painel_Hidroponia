@@ -151,7 +151,11 @@ O funcionamento é bem direto:
 
 - Fonte de alimentação
 
-Estrutura hidropônica (tubos, reservatório, etc.)
+- Estrutura hidropônica (tubos, reservatório, etc.)
+
+<div align="center">
+  <img src="!https://github.com/user-attachments/assets/b93d938d-6e27-4843-8805-bc1a4af60cfd" Dashboard de Irrigação">
+</div>
 
 ## 🔄 Lógica do sistema
 
