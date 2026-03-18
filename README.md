@@ -111,7 +111,7 @@ O funcionamento é bem direto:
       Bomba
 
 ## 🔧 Funcionalidades
-🔹 Automação da bomba
+### Automação da bomba
 
 - Liga e desliga automaticamente
 
@@ -119,13 +119,13 @@ O funcionamento é bem direto:
 
 - Mantém o fluxo necessário para as plantas
 
-🔹 Controle manual
+### Controle manual
 
 - Possibilidade de ligar/desligar quando quiser
 
 - Útil para manutenção ou testes
 
-🔹 Integração com automação
+### Integração com automação
 
 - Compatível com MQTT
 
@@ -133,7 +133,7 @@ O funcionamento é bem direto:
 
 - Permite controle remoto e criação de automações
 
-🔹 Funcionamento local
+### Funcionamento local
 
 - Não depende de internet
 
