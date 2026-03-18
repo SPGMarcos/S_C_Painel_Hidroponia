@@ -2,6 +2,14 @@
 
 Esse é um sistema de cultivo hidropônico automatizado, desenvolvido com microcontroladores ESP, pensado para manter as plantas saudáveis com o mínimo de intervenção manual.
 
+<div align="center"
+  
+![Dashboard](https://github.com/user-attachments/assets/fbfa8d21-f5e9-4aa2-8ed3-c6e439a8af1d)
+
+
+</div>
+
+
 ## 📌 Visão Geral
 
 Esse projeto nasceu de uma necessidade simples: não depender de ficar controlando manualmente irrigação e circulação de água o tempo todo.
