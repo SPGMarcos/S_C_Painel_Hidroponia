@@ -154,7 +154,7 @@ O funcionamento é bem direto:
 - Estrutura hidropônica (tubos, reservatório, etc.)
 
 <div align="center">
-  <img src="!https://github.com/user-attachments/assets/b93d938d-6e27-4843-8805-bc1a4af60cfd" Dashboard de Irrigação">
+  <img src="https://github.com/user-attachments/assets/fd3fda51-18b6-4586-a3cc-3f929406d089" width="400" alt="Dashboard de Irrigação">
 </div>
 
 ## 🔄 Lógica do sistema
