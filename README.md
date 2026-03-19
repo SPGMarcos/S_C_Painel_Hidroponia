@@ -220,6 +220,7 @@ Adicionar sensores de:
 Marcos Gabriel Ferreira Miranda
 
 Desenvolvedor IoT | Automação Residencial e Agrícola | 
+
 Irrigação, Bombas e Controle Remoto | Fundador da SmartControl
 
 Belo Horizonte - MG
