@@ -108,7 +108,11 @@ O funcionamento é bem direto:
 
       ↓
 
-      Bomba
+      Bomba de água
+
+      ↓
+
+      Sistema hidropônico
 
 ## 🔧 Funcionalidades
 ### Automação da bomba
