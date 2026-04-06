@@ -92,6 +92,8 @@ O funcionamento é bem direto:
 
 - Com automação (Home Assistant):
 
+      Usuário
+      ↓
       Home Assistant
 
       ↓
